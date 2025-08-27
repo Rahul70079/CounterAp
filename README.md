@@ -24,7 +24,7 @@ Perfect for beginners learning React basics like **state, props, and event handl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/counterapp.git
+   git clone https://github.com/Rahul70079/CounterAp
    cd counterapp
 🤝 Contributing
 
